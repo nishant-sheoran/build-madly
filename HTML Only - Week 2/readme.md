@@ -35,7 +35,7 @@ The website contains the following five interconnected pages:
 - HTML files (`.html`)
 - Supporting images (`.png`)
 - Resume document (`.pdf`)
-- Zipped submission file (`.zip`) as per naming guidelines
+- Zipped submission file (`.zip`) as per naming guidelines, [Click to Download](24f1001279.zip)
 
 Refer to the [assignment brief PDF](Week2_LA_HTML.pdf) in this folder for detailed instructions.
 
