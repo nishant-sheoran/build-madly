@@ -41,4 +41,4 @@ Refer to the [assignment brief PDF](Week2_LA_HTML.pdf) in this folder for detail
 
 ---
 
-_Submitted as part of Week 2 Lab Assignment – BSCCS2003_
+_Submitted as part of Week 2 Lab Assignment – BSCS2003_
