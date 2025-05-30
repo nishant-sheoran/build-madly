@@ -1,6 +1,6 @@
 # build-madly
 
-This repository documents the hands-on assignments and projects undertaken as part of the **Modern Application Development I (BSCCS2003)** course in the [IIT Madras Online B.S. Degree in Data Science and Applications](https://study.iitm.ac.in/ds/course_pages/BSCS2003.html).
+This repository documents the hands-on assignments and projects undertaken as part of the **Modern Application Development I (BSCS2003)** course in the [IIT Madras Online B.S. Degree in Data Science and Applications](https://study.iitm.ac.in/ds/course_pages/BSCS2003.html).
 
 ## 📘 Course Overview
 
@@ -23,7 +23,6 @@ These assignments offer a solid foundation for building modern web applications.
 
 ```
 build-madly/
-└── MAD-1/
     ├── HTML Only - Week 2/
     │   ├── index.html
     │   ├── contact.html
@@ -36,7 +35,7 @@ build-madly/
     └── ...
 ```
 
-Each folder inside `MAD-1/` corresponds to a weekly assignment and contains all related submission files.
+Each folder inside `build-madly/` corresponds to a weekly assignment and contains all related submission files.
 
 ## 📄 Assignment Snapshots
 
