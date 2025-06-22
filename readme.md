@@ -23,14 +23,20 @@ These assignments offer a solid foundation for building modern web applications.
 
 ```
 build-madly/
-    ├── HTML Only - Week 2/
+    ├── html_only_week_2/
     │   ├── index.html
     │   ├── contact.html
     │   ├── resume.html
     │   ├── img1.png
     │   ├── img2.png
     │   └── 24f1001279.zip
-    ├── [Upcoming Week 3 Assignment]/
+    ├── py_week_3/
+    │   ├── .venv/
+    │   ├── app.py
+    │   ├── data.csv
+    │   ├── output.html
+    │   ├── histogram.png
+    │   └── week3_la (Problem statement)
     ├── [Upcoming Week 4 Assignment]/
     └── ...
 ```
